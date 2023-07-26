@@ -1,0 +1,41 @@
+
+/*end genral*/
+
+
+@media (min-width: 1200px){
+    .container {
+        max-width: 1250px;
+    }}
+    @media (max-width: 1220px){
+      
+        }
+    @media (max-width: 1200px) { 
+      
+        
+     }
+    @media (max-width: 991px) {
+        .nav-info{
+            display: none;
+        }
+        .units{
+            // margin-bottom: 80px;
+        }
+        .site-map{
+            margin-bottom: 20px;
+        }
+       
+       
+     }
+    @media (max-width: 768px){ 
+     .foot{
+        flex-direction: column;
+        h6{
+            margin-bottom: 10px;
+        }
+     }
+     }
+    @media (max-width: 575.98px) { 
+       
+     }
+    
+    
